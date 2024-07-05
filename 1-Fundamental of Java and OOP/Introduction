@@ -1,1 +1,47 @@
+Introdução ao Java
 
+História do Java
+O que é Java?
+Características principais do Java
+Configuração do ambiente (JDK, IDEs)
+Estrutura de um Programa Java
+
+Estrutura básica de um programa Java
+Primeira aplicação Java: "Hello, World!"
+Tipos de Dados e Variáveis
+
+Tipos de dados primitivos
+Declaração e inicialização de variáveis
+Conversão de tipos
+Operadores
+
+Operadores aritméticos
+Operadores relacionais
+Operadores lógicos
+Operadores de atribuição
+Entrada e Saída
+
+Entrada de dados usando Scanner
+Saída de dados usando System.out.println
+Controle de Fluxo
+
+Estruturas condicionais (if, else if, else, switch)
+Estruturas de repetição (for, while, do-while)
+Controle de fluxo com break e continue
+Vamos detalhar cada uma dessas seções. No final, você terá um documento completo que poderá converter para PDF.
+
+1. Introdução ao Java
+História do Java
+Desenvolvido pela Sun Microsystems em 1995.
+Agora mantido pela Oracle Corporation.
+O que é Java?
+Java é uma linguagem de programação orientada a objetos e de propósito geral.
+Projetada para ser portátil, rodando em qualquer sistema com a Máquina Virtual Java (JVM).
+Características principais do Java
+Portabilidade: Escreva uma vez, rode em qualquer lugar (WORA).
+Orientação a objetos: Java é baseada no paradigma de programação orientada a objetos.
+Segurança: Java tem recursos de segurança robustos.
+Multithreading: Suporte para a execução de múltiplos threads simultaneamente.
+Configuração do ambiente (JDK, IDEs)
+JDK (Java Development Kit): Inclui ferramentas necessárias para desenvolver aplicativos em Java.
+IDE (Integrated Development Environment): Ambientes de desenvolvimento como Eclipse, IntelliJ IDEA, ou NetBeans facilitam a codificação.
